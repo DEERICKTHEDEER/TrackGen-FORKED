@@ -4,8 +4,8 @@ function catToColour(cat = -999, accessible = true) {
         [-2, accessible ? "#6ec1ea" : "#2428ffff"],
         [-1, accessible ? "#4dffff" : "#00ff22ff"],
         [1, accessible ? "#ffffD9" : "#fffb14ff"],
-        [2, accessible ? "#ffd98c" : "#ffc919ff"],
-        [3, accessible ? "#ff9e59" : "#f08000ff"],
+        [2, accessible ? "#ffd98c" : "#ffbb00ff"],
+        [3, accessible ? "#ff9e59" : "#ff5e00ff"],
         [4, accessible ? "#ff738a" : "#ff0000ff"],
         [5, accessible ? "#a188fc" : "#ff006aff"],
     ]);
