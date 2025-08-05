@@ -1,6 +1,6 @@
 # [TrackGen FORKED](https://deerickthedeer.github.io/TrackGen-FORKED/)
 
-The simplest tropical cyclone track map generator. This is an enhanced fork of [TrackGen](https://trackgen.codingcactus.repl.co/) by [CodingCactus](https://github.com/Coding-Cactus) — among the changes made here are:
+The simplest tropical cyclone track map generator. This is an adjusted fork of [TrackGen](https://trackgen.codingcactus.repl.co/) by [CodingCactus](https://github.com/Coding-Cactus) & StrawberryMaster's Fork [SMTrackGen](https://strawberrymaster.github.io/TrackGen/) — among the changes made here are:
 
 - Support for multiple Blue Marble maps
 - Ability to import and export your tracks for usage on other projects, in JSON and HURDAT format
