@@ -1,4 +1,4 @@
-# [TrackGen](https://strawberrymaster.github.io/TrackGen)
+# [TrackGen]([https://strawberrymaster.github.io/TrackGen](https://deerickthedeer.github.io/TrackGen-FORKED/)
 
 The simplest tropical cyclone track map generator. This is an enhanced fork of [TrackGen](https://trackgen.codingcactus.repl.co/) by [CodingCactus](https://github.com/Coding-Cactus) — among the changes made here are:
 
