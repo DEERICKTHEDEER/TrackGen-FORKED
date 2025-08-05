@@ -9,6 +9,7 @@ The simplest tropical cyclone track map generator. This is an enhanced fork of [
 - Dark theme!
 - Support for STORMS database files
 - Full PWA support, letting you use this offline and without having to download a ~250MB map file
+- (BY DERECK RODRIGUEZ) Added F13 Colo Scheme, 2022 HURDAT is still the alternate colorway
 
 ## Usage
 
